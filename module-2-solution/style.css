@@ -3,27 +3,40 @@
 }
 
 p {
-  border:5px solid black;
-  background-color: burlywood;
-  width: 100%;
-  height: 50px;
-  margin-right: auto;
-  margin-left: auto;
   font-family: Arial, Helvetica, sans-serif;
-  color:brown;
-  font-size: 120%;
+  color:black;
 }
 
-h1 {
+#menu{
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
   color: black
 }
 
-.row {
-    width: 100%;
-  }
+#chicken {
+background-color: gray;
+}
+
+#beef {
+  background-color: gray;
+}
+
+#sushi {
+  background-color: gray;
+}
+
+#chickenh1 {
+
+}
+
+#beefh1 {
+
+}
   
+#sushih1 {
+
+}
+
+
   @media (min-width: 992px) {
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
       float:left;
