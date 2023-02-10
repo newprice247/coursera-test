@@ -28,7 +28,7 @@ p {
   padding-right: 6px;
   color:white;
   font-style: italic;
-  border:5px solid black;
+  border: thick solid black;
   background-color: gray;
   font-size: 100%;
 }
@@ -43,7 +43,7 @@ p {
   position: absolute;
   top: 16px;
   right: 15px;
-  border: 5px black solid;
+  border: thick black solid;
   float: right;
   font-size: 160%;
 }
